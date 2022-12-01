@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning software enginering 
 - 💞️ I’m looking to collaborate on any coding problem
-- 📫 How to reach me by my email negaamanuel387@gmail.coms
+- 📫 How to reach me by my email negaamanuel387@gmail.com
 
 <!---
 amani387/amani387 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
